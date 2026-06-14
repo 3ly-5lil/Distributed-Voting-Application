@@ -51,8 +51,8 @@ The application is configured for deployment on Kubernetes. All necessary manife
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd voting-app-k8s
+    git clone https://github.com/3ly-5lil/Distributed-Voting-Application.git
+    cd Distributed-Voting-Application
     ```
 
 2. **Deploy the application:**
@@ -88,4 +88,3 @@ kubectl delete -f k8s/
 ```
 
 ---
-*This project is part of a portfolio demonstrating expertise in Kubernetes, Docker, and Microservices Architecture.*
